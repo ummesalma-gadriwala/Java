@@ -1,3 +1,7 @@
+  //////////////////////////
+ // Umme Salma Gadriwala //
+//////////////////////////
+
 package cs2s03;
 public class MatrixArrayRC{
 	/*
