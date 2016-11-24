@@ -1,2 +1,5 @@
 # Java
-Small projects to improve understanding of Java
+Records, Arrays and JUnit Testing
+
+
+By: Umme Salma Gadriwala.
